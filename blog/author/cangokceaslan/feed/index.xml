@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://cangokceaslan.com/wp-content/plugins/squirrly-seo/view/css/feed.xsl"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cangokceaslan &#8211; CAN GÖKÇEASLAN</title>
+	<atom:link href="http://localhost/wordpress/blog/author/cangokceaslan/feed/" rel="self" type="application/rss+xml" />
+	<link>http://cangokceaslan.com</link>
+	<description>KİŞİSEL WEB SAYFASI</description>
+	<lastBuildDate>Sun, 23 Sep 2018 10:47:24 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>http://cangokceaslan.com/wp-content/uploads/2018/03/tepe-150x150.png</url>
+	<title>cangokceaslan &#8211; CAN GÖKÇEASLAN</title>
+	<link>http://cangokceaslan.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<feedcss>http://cangokceaslan.com/wp-content/plugins/squirrly-seo/view/css/feed.css</feedcss>
+	<item>
+		<title>ENDUSTRI 4.0 NEDIR VE NEDEN GEREKLIDIR</title>
+		<link>http://cangokceaslan.com/blog/2017/09/15/endustri-4-0/</link>
+		<comments>http://cangokceaslan.com/blog/2017/09/15/endustri-4-0/#respond</comments>
+		<pubDate>Fri, 15 Sep 2017 11:48:29 +0000</pubDate>
+		<dc:creator><![CDATA[cangokceaslan]]></dc:creator>
+				<category><![CDATA[BLOG]]></category>
+
+		<guid isPermaLink="false">http://cangokceaslan.com/?p=1</guid>
+		<description><![CDATA[Endüstri 4.0 bilgisayar çağının hayatımıza kattığı önemli kavramlardan biridir. Endüstri 4.0 bize internet ve yeni nesil bilgisayarları içinde barındıran bir üretim şekli sunar. Bu sistemler internet üzerinden haberleşebilen ve içinde yapay zeka algoritmalarını kapsayan bir döngüden oluşur. Örneğin araba üreteceksiniz ve bir fabrika kuracaksınız. Bu fabrikayı Endüstri 4.0 tekniklerine uygun kurarsanız, araba parçalarının ayrıştırıldığı makineler [&#8230;]]]></description>
+		<wfw:commentRss>http://cangokceaslan.com/blog/2017/09/15/endustri-4-0/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
